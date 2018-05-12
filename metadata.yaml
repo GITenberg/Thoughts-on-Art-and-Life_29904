@@ -1,0 +1,51 @@
+_repo: Thoughts-on-Art-and-Life_29904
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leonardo, da Vinci
+    aliases:
+    - Da Vinci, Leonardo
+    - Vinci, Léonard de
+    - Vinci, Leonardo da
+    birthdate: 1452
+    deathdate: 1519
+    gutenberg_agent_id: '1629'
+    url: http://www.gutenberg.org/2009/agents/1629
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Leonardo_da_Vinci
+    - http://fr.wikipedia.org/wiki/Leonardo_da_Vinci
+  editor:
+    agent_name: Einstein, Lewis
+    birthdate: 1877
+    deathdate: 1967
+    gutenberg_agent_id: '34243'
+    url: http://www.gutenberg.org/2009/agents/34243
+description: ''
+gutenberg_issued: '2009-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Life'
+- !lcsh 'Science'
+- !lcsh 'Aesthetics'
+tableOfContents: Thoughts on life -- Thoughts on art -- Thoughts on science -- Bibliographical
+  note -- Table of references.
+title: Thoughts on Art and Life
+url: http://www.gutenberg.org/ebooks/29904
